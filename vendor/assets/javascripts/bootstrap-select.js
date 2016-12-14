@@ -326,7 +326,7 @@
     tickIcon: 'glyphicon-ok',
     showTick: false,
     template: {
-      caret: '<span class="caret"></span>'
+      caret: ''
     },
     maxOptions: false,
     mobile: false,
